@@ -59,7 +59,7 @@
     $queryUpdate = mysqli_query($conn, $sqlUpdate);
     
     echo"
-    <div class='alert alert-success'>Data Berhasil ditambahkan!<a href='index.php'>Lihat Data</a></div>
+    <div class='alert alert-success'>Data Berhasil Dirubah!<a href='index.php'>Lihat Data</a></div>
     ";
 
     }
